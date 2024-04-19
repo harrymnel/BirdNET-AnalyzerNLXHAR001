@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Gallinula chloropus_Eurasian Moorhen",
+            0.4348
+        ],
+        [
+            "Indicator variegatus_Scaly-throated Honeyguide",
+            0.00215
+        ]
+    ]
+}

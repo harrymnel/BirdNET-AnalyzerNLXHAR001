@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.1289
+        ],
+        [
+            "Numida meleagris_Helmeted Guineafowl",
+            0.01525
+        ]
+    ]
+}

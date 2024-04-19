@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.2728
+        ],
+        [
+            "Ardea cinerea_Gray Heron",
+            0.0217
+        ]
+    ]
+}

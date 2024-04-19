@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.50295
+        ],
+        [
+            "Anas platyrhynchos_Mallard",
+            0.00985
+        ]
+    ]
+}

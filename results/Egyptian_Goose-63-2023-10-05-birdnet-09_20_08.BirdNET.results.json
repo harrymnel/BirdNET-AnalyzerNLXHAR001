@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.30865
+        ],
+        [
+            "Gallinula chloropus_Eurasian Moorhen",
+            0.24305
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Phalacrocorax carbo_Great Cormorant",
+            0.30105000000000004
+        ],
+        [
+            "Recurvirostra avosetta_Pied Avocet",
+            0.0089
+        ]
+    ]
+}

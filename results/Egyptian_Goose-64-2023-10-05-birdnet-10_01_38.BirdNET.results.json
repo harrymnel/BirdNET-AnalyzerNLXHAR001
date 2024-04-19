@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.7926
+        ],
+        [
+            "Spheniscus demersus_African Penguin",
+            0.019100000000000002
+        ]
+    ]
+}

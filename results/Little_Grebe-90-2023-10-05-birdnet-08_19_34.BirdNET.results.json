@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Tachybaptus ruficollis_Little Grebe",
+            0.88725
+        ],
+        [
+            "Numenius phaeopus_Whimbrel",
+            0.2055
+        ]
+    ]
+}

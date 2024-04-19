@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.9677
+        ],
+        [
+            "Ardea alba_Great Egret",
+            0.00015000000000000001
+        ]
+    ]
+}

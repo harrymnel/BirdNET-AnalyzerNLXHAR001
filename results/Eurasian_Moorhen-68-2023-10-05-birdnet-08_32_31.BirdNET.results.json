@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Gallinula chloropus_Eurasian Moorhen",
+            0.47475
+        ],
+        [
+            "Tringa glareola_Wood Sandpiper",
+            0.00415
+        ]
+    ]
+}

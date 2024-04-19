@@ -1,0 +1,25 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Alopochen aegyptiaca_Egyptian Goose",
+            0.8307
+        ],
+        [
+            "Theristicus caudatus_Buff-necked Ibis",
+            0.00325
+        ],
+        [
+            "Branta leucopsis_Barnacle Goose",
+            0.00225
+        ],
+        [
+            "Corvus capensis_Cape Crow",
+            0.00175
+        ],
+        [
+            "Corvus corax_Common Raven",
+            0.00145
+        ]
+    ]
+}

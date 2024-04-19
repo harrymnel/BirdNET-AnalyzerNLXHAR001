@@ -1,0 +1,25 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Bradypterus baboecala_Kaapse Vleisanger",
+            0.53915
+        ],
+        [
+            "Chersomanes albofasciata_Spike-heeled Lark",
+            0.0205
+        ],
+        [
+            "Acrocephalus gracilirostris_Kaapse Rietsanger",
+            0.0168
+        ],
+        [
+            "Merops apiaster_Europese Byvreter",
+            0.0017000000000000001
+        ],
+        [
+            "Certhilauda subcoronata_Karoo Long-billed Lark",
+            0.0001
+        ]
+    ]
+}

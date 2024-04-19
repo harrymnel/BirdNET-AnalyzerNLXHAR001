@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Haliaeetus vocifer_African Fish-Eagle",
+            0.8410500000000001
+        ],
+        [
+            "Actophilornis africanus_African Jacana",
+            0.001
+        ]
+    ]
+}

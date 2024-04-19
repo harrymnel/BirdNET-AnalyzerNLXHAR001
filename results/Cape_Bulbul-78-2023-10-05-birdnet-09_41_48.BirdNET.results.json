@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Pycnonotus capensis_Cape Bulbul",
+            0.02835
+        ],
+        [
+            "Corvus splendens_House Crow",
+            0.0011
+        ]
+    ]
+}

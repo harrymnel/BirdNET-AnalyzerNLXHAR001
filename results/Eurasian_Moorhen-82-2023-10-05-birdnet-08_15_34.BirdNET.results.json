@@ -1,0 +1,13 @@
+{
+    "msg": "success",
+    "results": [
+        [
+            "Gallinula chloropus_Eurasian Moorhen",
+            0.34750000000000003
+        ],
+        [
+            "Hydrobates pelagicus_European Storm-Petrel",
+            0.0018
+        ]
+    ]
+}
