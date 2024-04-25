@@ -1,6 +1,6 @@
 """Client to send requests to the server modified to take a whole directory
 """
-
+"Author: Harry Nel"
 import argparse
 import json
 import os
@@ -147,5 +147,5 @@ if __name__ == "__main__":
             saveResult(data, result_file_path)
 
  # A few examples to test
-    # python3 client.py --host localhost --port 8080 --i example/soundscape.wav
-    # python3 client.py --host localhost --port 8080 --i example/soundscape.wav --save --lat 42.5 --lon -76.45 --week 4
+    # python3 newClient.py --host localhost --port 8080 --i example/soundscape.wav
+    # python3 newClient.py --host localhost --port 8080 --i example/soundscape.wav --save --lat 42.5 --lon -76.45 --week 4
